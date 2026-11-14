@@ -67,4 +67,4 @@ Each part of the business is its own NestJS module under `src/` (for example `ap
 ## Status
 
 About 80% complete. Still to do:
-- [Davron: list what is missing, e.g. finishing payments, adding tests]
+
